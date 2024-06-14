@@ -5,4 +5,9 @@
 ##### Header 5
 ###### Header 6
 
+```javascript
+// Hello there, here a variable :)
+const pi = 3.1415
+```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
