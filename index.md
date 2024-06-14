@@ -10,4 +10,7 @@
 const pi = 3.1415
 ```
 
+- [x] This is completed
+- [ ] This is not completed
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
